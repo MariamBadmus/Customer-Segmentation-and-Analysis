@@ -28,7 +28,19 @@ EDA invloved exploring demographic and sales data to answer the key questions wh
 - how do different customer segments interact with the products or services offered?
 - what are the key factors influencing customer behaviour and how can they be used to segment the custoemr base effectively for targeted marketing strategies?
 
-###Data Analysis
+### Data Analysis
 
+excel
+- used filter functions for data cleaning and preparation.
+- carried out the RFM (Recency, Frequency, Monetary) analysis.
+- some codes used include: =(TODAY()-Column)/365 to calcualte age based on the provided date of birth, =TRUNC((Column/10)+1)*10 to get age category
+- used pivot table to make graphical represenations. 
+
+PowerBI
+-for data visualizations. 
+
+### Results/Findings
+
+The analysis results are summarized as follows:
 
 
